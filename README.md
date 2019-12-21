@@ -25,9 +25,14 @@ https://pt.osdn.net/projects/mingw/downloads/68260/mingw-get-setup.exe/
 ![mingw](https://user-images.githubusercontent.com/48113700/71306853-c1c9a000-23c4-11ea-84ad-2ced3b59cdf4.jpg)
 
 <p>Abra ela, e irá ter uma pasta bin </p>
+
+![bin](https://user-images.githubusercontent.com/48113700/71306883-41f00580-23c5-11ea-94f8-e4bfbf5af472.jpg)
 <p>Abra a pasta bin para pegar o endereço que fica na barra de nagevação </p>
 <p>Clique na barra de nagegação e copie o endereço</p>
 <p>C:\MinGW\bin</p>
+
+![endereço](https://user-images.githubusercontent.com/48113700/71306893-63e98800-23c5-11ea-9b96-3f16b59596da.jpg)
+
 
 ## Agora vamos colocar  o endereço do bin no path do Windows
 <p></p>
