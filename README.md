@@ -4,8 +4,7 @@ Aos amantes do  VSCode, que não querem larga-lo nem na hora de escrever seus c�
 ## Primeiramente é preciso instalar duas extensões no VSCode
 <ol>
   <li>C/C++
-  https://github.com/JosiasSalermo/Copilar_C_no_VSCode/blob/master/Extens%C3%B5es/c.jpg?raw=true
-
+  
   </li>
   <li>C/C++ Copile Run</li>
 </ol>
@@ -24,7 +23,7 @@ https://pt.osdn.net/projects/mingw/downloads/68260/mingw-get-setup.exe/
 <p>Clique na barra de nagegação e copie o endereço</p>
 <p>C:\MinGW\bin</p>
 
-##Colocar o endereço do copilador no path do Windows
+## Agora vamos colocar  o endereço do bin no path do Windows
 <p></p>
 <p></p>
 <p></p>
