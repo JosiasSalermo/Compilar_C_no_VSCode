@@ -35,6 +35,24 @@ https://pt.osdn.net/projects/mingw/downloads/68260/mingw-get-setup.exe/
 
 
 ## Agora vamos colocar  o endereço do bin no path do Windows
-<p></p>
-<p></p>
+<p>Vai no Painel de controle </p>
+<p>Vai em Sistemas</p>
+<p>Configuração Avançado do Sistema</p>
+
+![sistema](https://user-images.githubusercontent.com/48113700/71306954-4a950b80-23c6-11ea-8e5e-a5e5e57fd541.jpg)
+
+<p>Na Aba Avançado, vai em Variáveis de Ambiente</p>
+
+![avançado](https://user-images.githubusercontent.com/48113700/71306988-b4151a00-23c6-11ea-8024-e36ad72efb3e.jpg)
+
+<p>Crie uma nova </p>
+
+![novo](https://user-images.githubusercontent.com/48113700/71307038-7bc20b80-23c7-11ea-9533-429a710adf91.jpg)
+
+
+<p>Coloque um nome e o endereço da bin</p>
+
+![teste](https://user-images.githubusercontent.com/48113700/71307091-cd6a9600-23c7-11ea-97ab-ee6a66a7e84e.jpg)
+
+<p>Pronto!</p>
 <p></p>
