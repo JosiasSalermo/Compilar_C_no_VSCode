@@ -1,4 +1,4 @@
-# Copilar_C_no_VSCode
+# Compilar_C_no_VSCode
 Aos amantes do  VSCode, que não querem larga-lo nem na hora de escrever seus códigos em C.
 
 ## Primeiramente é preciso instalar duas extensões no VSCode
