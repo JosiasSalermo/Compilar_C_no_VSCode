@@ -6,3 +6,5 @@ Aos amantes do  VSCode, que n√£o querem larga-lo nem na hora de escrever seus c√
   <li>C/C++</li>
   <li>C/C++ Copile Run</li>
 </ol>
+<a href="https://github.com/JosiasSalermo/Copilar_C_no_VSCode/blob/master/Extens%C3%B5es/c.jpg?raw=true"></a>
+<a href="https://github.com/JosiasSalermo/Copilar_C_no_VSCode/blob/master/Extens%C3%B5es/copile%20run.jpg?raw=true"></a>
