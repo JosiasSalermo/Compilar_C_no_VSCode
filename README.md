@@ -4,9 +4,9 @@ Aos amantes do  VSCode, que não querem larga-lo nem na hora de escrever seus c�
 ## Primeiramente é preciso instalar duas extensões no VSCode
 <ol>
   <li>C/C++</li>
-  ![c](https://user-images.githubusercontent.com/48113700/71306594-179c4900-23c1-11ea-98b4-04dcf21e6bd4.jpg)
+  
   <li>C/C++ Copile Run</li>
-  ![copile run](https://user-images.githubusercontent.com/48113700/71306597-1b2fd000-23c1-11ea-9e23-2f5c2d1487c8.jpg)
+  
 </ol>
 
 <br>
