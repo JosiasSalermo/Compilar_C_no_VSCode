@@ -21,7 +21,9 @@ https://pt.osdn.net/projects/mingw/downloads/68260/mingw-get-setup.exe/
 <p>Instale normalmente</p>
 <p>Lembrando que tem que ser instalado do C:</p>
 <p>Depois vai no C: e irá ter a pasta MinGW </p>
+
 ![mingw](https://user-images.githubusercontent.com/48113700/71306853-c1c9a000-23c4-11ea-84ad-2ced3b59cdf4.jpg)
+
 <p>Abra ela, e irá ter uma pasta bin </p>
 <p>Abra a pasta bin para pegar o endereço que fica na barra de nagevação </p>
 <p>Clique na barra de nagegação e copie o endereço</p>
