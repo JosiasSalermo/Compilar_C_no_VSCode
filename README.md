@@ -55,4 +55,10 @@ https://pt.osdn.net/projects/mingw/downloads/68260/mingw-get-setup.exe/
 ![teste](https://user-images.githubusercontent.com/48113700/71307091-cd6a9600-23c7-11ea-97ab-ee6a66a7e84e.jpg)
 
 <p>Pronto!</p>
-<p></p>
+
+
+## Compilando...
+
+<p>Para Compilar basta depois de escrever o código em C, clicar o tecla F6 </p>
+
+<p>Prontinho! </p>
