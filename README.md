@@ -59,6 +59,6 @@ https://pt.osdn.net/projects/mingw/downloads/68260/mingw-get-setup.exe/
 
 ## Compilando...
 
-<p>Para Compilar basta depois de escrever o código em C, clicar o tecla F6 </p>
+<p>Para Compilar basta depois de escrever o código em C, clicar a tecla F6 </p>
 
 <p>Prontinho! </p>
