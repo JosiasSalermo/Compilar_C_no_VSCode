@@ -35,20 +35,20 @@ Segue as instruções de como configurar de forma fácil e rápida.
 
 <br>
 
-<img src="img/instalar_mingw.jpg" width="250">
+<img src="img/instalar_mingw.jpg" width="">
 
 
 <p>Após instalado, irá abrir o programa automaticamente</p>
-  <img src="img/mingw_aberto.jpg" width="250">
+  <img src="img/mingw_aberto.jpg" width="">
 
 <h3>Agora precisa instalar um pacote adicional</h3>
-  <img src="img/mingw_add_pacote.jpg" width="250">
+  <img src="img/mingw_add_pacote.jpg" width="">
 
 <h3>"Mark for installation"
-  <img src="img/mingw_marcando_pacote.jpg" width="250">
+  <img src="img/mingw_marcando_pacote.jpg" width="">
 
 <h3>Vai na Aba "Installation" e click em "Apply Changes"</h3>
-  <img src="img/mingw_aplique.jpg" width="250">
+  <img src="img/mingw_aplique.jpg" width="">
 
   <hr>
 <h2 align="center">Agora Vamos configurar o path do Windows</h2>
@@ -76,7 +76,7 @@ Segue as instruções de como configurar de forma fácil e rápida.
 
 
 <h3>Na Aba Avançado, vai em Variáveis de Ambiente</h3>
-    <img src="img/variaveis_de_ambiente.jpg" width="250">
+    <img src="img/variaveis_de_ambiente.jpg" width="400">
 
 
 <h3>Dentro da "Variáveis do Sistema" Seleciona "Path"<h3>
@@ -87,11 +87,11 @@ Segue as instruções de como configurar de forma fácil e rápida.
 
 
 <h3>Vai em "Novo" que vai ser aonde que vai colocar o endereço da bin</h3>
-    <img src="img/novo.jpg" width="250">
+    <img src="img/novo.jpg" width="400">
 
 
 <h3>Confirme com "OK", depois "OK" e "OK".
-    <img src="img/ok.jpg" width="250">
+    <img src="img/ok.jpg" width="400">
 
 <hr>
 
